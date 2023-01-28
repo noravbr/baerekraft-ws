@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2c3db82.css",
-    "main.js": "/static/js/main.c4817608.js",
-    "static/js/787.8cfa34c4.chunk.js": "/static/js/787.8cfa34c4.chunk.js",
-    "static/media/anton.ttf": "/static/media/anton.02396b4d2cf38d4a7781.ttf",
-    "index.html": "/index.html",
-    "main.d2c3db82.css.map": "/static/css/main.d2c3db82.css.map",
-    "main.c4817608.js.map": "/static/js/main.c4817608.js.map",
-    "787.8cfa34c4.chunk.js.map": "/static/js/787.8cfa34c4.chunk.js.map"
+    "main.css": "/baerekraft-ws/static/css/main.ae63553b.css",
+    "main.js": "/baerekraft-ws/static/js/main.770fca53.js",
+    "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js",
+    "static/media/anton.ttf": "/baerekraft-ws/static/media/anton.02396b4d2cf38d4a7781.ttf",
+    "index.html": "/baerekraft-ws/index.html",
+    "main.ae63553b.css.map": "/baerekraft-ws/static/css/main.ae63553b.css.map",
+    "main.770fca53.js.map": "/baerekraft-ws/static/js/main.770fca53.js.map",
+    "787.8cfa34c4.chunk.js.map": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2c3db82.css",
-    "static/js/main.c4817608.js"
+    "static/css/main.ae63553b.css",
+    "static/js/main.770fca53.js"
   ]
 }
