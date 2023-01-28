@@ -1,25 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Header } from "./components/Header";
+import "./App.css";
+import { Outlet } from "react-router-dom";
+import moment from "moment";
+
+import _ from "lodash";
 
 function App() {
+  // A simple homepage for a blog
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <body>
+      <Header />
+      <Outlet />
+      <footer>
+        <section id="contact">
+          <h1>Contact Us</h1>
+          <form>
+            <label htmlFor="name">Name:</label>
+            <input type="text" id="name" name="name" />
+            <br />
+            <label htmlFor="email">Email:</label>
+            <input type="email" id="email" name="email" />
+            <br />
+            <label htmlFor="message">Message:</label>
+            <textarea id="message" name="message"></textarea>
+            <br />
+            <button type="submit">Send</button>
+          </form>
+        </section>
+        <p>Copyright ©{moment(_.now()).format("YYYY")} Techno co.</p>
+      </footer>
+    </body>
   );
 }
 

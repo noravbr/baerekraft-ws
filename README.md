@@ -1,46 +1,45 @@
-# Getting Started with Create React App
+# Bærekraftsworkshop med Bekk - Lag Oransje
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dette prosjektet ble lagd med [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Tilgjengelige kommandoer
 
-In the project directory, you can run:
+Følgende commandoer kan kjøres fra roota i prosjektet
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Start applikasjonen i utviklingsmodus.\
+Åpne [http://localhost:3000](http://localhost:3000) for å se den i nettleseren.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Siden vil laste på nytt hvis du gjør endringer.\
+Du vil også se eventuelle feilmeldinger i konsollen.
 
-### `npm test`
+### `npm deploy`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Bygger og ruller applikasjonen ut til GitHub Pages.\
+Åpne [https://bekk.github.io/baerekraftsworkshop/](https://bekk.github.io/baerekraftsworkshop/) for å se den i nettleseren.\
+Merk at det kan ta litt tid før endringene er synlige.
 
-### `npm run build`
+## Tips og ressurser
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Her finner dere noen lenker som kan være nyttige underveis i prosjektet.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Wholegrain digital sin liste over tiltak
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Denne listen inneholder en rekke tiltak som kan gjøres for å gjøre en nettside mer bærekraftig.\
+[https://www.wholegraindigital.com/blog/website-energy-efficiency/](https://www.wholegraindigital.com/blog/website-energy-efficiency/)
 
-### `npm run eject`
+### Shortpixel
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Shortpixel er et verktøy som kan brukes for å komprimere bilder.\
+[https://shortpixel.com/](https://shortpixel.com/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Pexels
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Pexels er en side med gratis bilder.\
+[https://www.pexels.com/](https://www.pexels.com/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Unsplash
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Unsplash er også en side med gratis bilder.\
+[https://unsplash.com/](https://unsplash.com/)
