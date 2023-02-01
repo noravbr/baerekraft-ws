@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/baerekraft-ws/static/css/main.7680c3d5.css",
+    "main.css": "/baerekraft-ws/static/css/main.e0935a94.css",
     "main.js": "/baerekraft-ws/static/js/main.ef3b1590.js",
     "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js",
     "static/media/service1.mp4": "/baerekraft-ws/static/media/service1.d28831bc5d9eeb4a9a44.mp4",
@@ -11,12 +11,12 @@
     "static/media/service3.jpg": "/baerekraft-ws/static/media/service3.f38bd6356c6c690eb813.jpg",
     "static/media/anton.ttf": "/baerekraft-ws/static/media/anton.02396b4d2cf38d4a7781.ttf",
     "index.html": "/baerekraft-ws/index.html",
-    "main.7680c3d5.css.map": "/baerekraft-ws/static/css/main.7680c3d5.css.map",
+    "main.e0935a94.css.map": "/baerekraft-ws/static/css/main.e0935a94.css.map",
     "main.ef3b1590.js.map": "/baerekraft-ws/static/js/main.ef3b1590.js.map",
     "787.8cfa34c4.chunk.js.map": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7680c3d5.css",
+    "static/css/main.e0935a94.css",
     "static/js/main.ef3b1590.js"
   ]
 }
