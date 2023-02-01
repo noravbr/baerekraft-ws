@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/baerekraft-ws/static/css/main.63af0f2c.css",
-    "main.js": "/baerekraft-ws/static/js/main.60c4aece.js",
+    "main.css": "/baerekraft-ws/static/css/main.7680c3d5.css",
+    "main.js": "/baerekraft-ws/static/js/main.aa5477ac.js",
     "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js",
+    "static/media/service3-1.jpg": "/baerekraft-ws/static/media/service3-1.9bf9c20b40b6e89d5c26.jpg",
+    "static/media/service1-1.jpg": "/baerekraft-ws/static/media/service1-1.1024d9ab372c519e25aa.jpg",
     "static/media/service2.jpg": "/baerekraft-ws/static/media/service2.3dee77af95dca56abf66.jpg",
+    "static/media/service2-1.jpg": "/baerekraft-ws/static/media/service2-1.0ebaeb71a96c786939ed.jpg",
     "static/media/service1.jpg": "/baerekraft-ws/static/media/service1.3a3a814160b2e467c59e.jpg",
     "static/media/service3.jpg": "/baerekraft-ws/static/media/service3.f38bd6356c6c690eb813.jpg",
     "static/media/anton.ttf": "/baerekraft-ws/static/media/anton.02396b4d2cf38d4a7781.ttf",
     "index.html": "/baerekraft-ws/index.html",
-    "main.63af0f2c.css.map": "/baerekraft-ws/static/css/main.63af0f2c.css.map",
-    "main.60c4aece.js.map": "/baerekraft-ws/static/js/main.60c4aece.js.map",
+    "main.7680c3d5.css.map": "/baerekraft-ws/static/css/main.7680c3d5.css.map",
+    "main.aa5477ac.js.map": "/baerekraft-ws/static/js/main.aa5477ac.js.map",
     "787.8cfa34c4.chunk.js.map": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63af0f2c.css",
-    "static/js/main.60c4aece.js"
+    "static/css/main.7680c3d5.css",
+    "static/js/main.aa5477ac.js"
   ]
 }
