@@ -2,6 +2,20 @@
 
 Dette prosjektet ble lagd med [Create React App](https://github.com/facebook/create-react-app).
 
+For å komme igang med workshoppen må dere ha Node.js installert. Det kan lastes ned herfra: [https://nodejs.org/en/](https://nodejs.org/en/)
+
+Velg versjonen som er merket "LTS".\
+
+Klon så prosjektet med Git og kjør `npm install` for å installere avhengigheter.
+
+## Oppgaven
+
+Oppgaven går ut på å gjøre nettsiden mer bærekraftig, i første omgang ved å redusere mengden data som lastes ned til brukeren.
+
+Nettsiden testes mot [websitecarbon.com](https://websitecarbon.com), som regner ut hvor mye CO2 et besøk til side genererer. Dere konkurerer med de andre lagene om å få lavest mulig CO2-utslipp. Det er premie til vinnerlaget!
+
+**NB:** Test **_IKKE_** nettsiden mot websitecarbon.com før dere er ferdige med workshop-en. Siden tillater kun å teste en gang i døgnet. Dersom dere tester for tidlig vil dere få en høyere score enn dere kanskje ellers hadde fått!
+
 ## Tilgjengelige kommandoer
 
 Følgende commandoer kan kjøres fra roota i prosjektet
@@ -43,3 +57,7 @@ Pexels er en side med gratis bilder.\
 
 Unsplash er også en side med gratis bilder.\
 [https://unsplash.com/](https://unsplash.com/)
+
+## Bonusoppgave
+
+Fort ferdig? Herlig! Da kan dere få prøve dere på å legge noe _til_ på en bærekraftig måte. Siden `Contact us` er helt tom. Fyll den med kontaktinfo og bilde til minst 3 personer i bedriften (som gjerne kan være imaginære), samt bedriftens adresse. Vær bevist på hvor store bilder dere bruker og hvor fjongt det må være!
