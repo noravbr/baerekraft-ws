@@ -3,7 +3,7 @@
 ## Kom i gang
 0. Velg dere et lagnavn!
 
-1. Trykk på knappen `Deploy` under, og . Dette vil kopiere prosjektet til din GitHub-bruker og bygge nettsiden til servertjenesten Vercel.\
+1. Trykk på knappen `Deploy` under. Dette vil kopiere prosjektet til din GitHub-bruker og bygge nettsiden til servertjenesten Vercel.\
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbekk%2Fbaerekraft-ws&project-name=baerekraft-ws-lagnavn&repository-name=baerekraft-ws-lagnavn)
 
 2. Klon prosjektet til egen maskin med Git. Gjør en endring i `src/routes/Home/Home.tsx`, commit og push endringen.\
