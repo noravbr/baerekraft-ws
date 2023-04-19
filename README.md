@@ -9,8 +9,8 @@
 
 2. Test nettsiden deres mot [Beacon](https://digitalbeacon.co). Hvordan ligger den an?
 
-3. Klon prosjektet til egen maskin med Git. Gjør en endring i `src/routes/Home/Home.tsx`, commit og push endringen.\
-   Vercel vil automatisk rulle ut en ny versjon av siden.
+3. Klon prosjektet fra det nye repoet til maskinen din med Git. Gjør en endring i `src/routes/Home/Home.tsx`, commit og push endringen.\
+   Vercel skal nå automatisk rulle ut en ny versjon av siden.
 
 4. Når Vercel er ferdig med utrullingen, test nettsiden mot [Beacon](https://digitalbeacon.co/) på nytt. Skjedde det en endring?
 
