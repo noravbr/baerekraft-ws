@@ -10,7 +10,7 @@
 2. Test nettsiden deres mot [Beacon](https://digitalbeacon.co). Hvordan ligger den an?
 
 3. Klon prosjektet fra det nye repoet til maskinen din med Git. Gjør en endring i `src/routes/Home/Home.tsx`, commit og push endringen.\
-   Vercel skal nå automatisk rulle ut en ny versjon av siden.
+   Vercel vil nå automatisk rulle ut en ny versjon av siden.
 
 4. Når Vercel er ferdig med utrullingen, test nettsiden mot [Beacon](https://digitalbeacon.co/) på nytt. Skjedde det en endring?
 
@@ -22,7 +22,7 @@ Oppgaven går ut på å gjøre nettsiden mer bærekraftig.
 
 Innenfor den rammen kan dere gjøre hva dere vil med siden, så lenge essensen i innholdet er den samme.
 
-Nettsiden testes mot [Beacon](https://digitalbeacon.co/), som regner ut hvor mye CO2 et besøk til side genererer. Dere konkurerer med de andre lagene om å få lavest mulig CO2-utslipp.
+Nettsiden testes mot [Beacon](https://digitalbeacon.co/), som regner ut hvor mye CO2 et besøk til side genererer. Prøv å få lavest mulig CO2-utslipp!
 
 Test gjerne nettsiden deres mot Beacon mens dere jobber og dytter ut endringer til Vercel. Da kan dere se hvor mye CO2-utslippet har gått ned!
 
