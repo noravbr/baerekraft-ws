@@ -1,9 +1,5 @@
 import styles from "./Services.module.css";
 
-import service1Image from "../../assets/serviceImages/service1-1.jpg";
-import service2Image from "../../assets/serviceImages/service2-1.jpg";
-import service3Image from "../../assets/serviceImages/service3-1.jpg";
-
 export const Services = () => {
   return (
     <section id="services">
@@ -12,7 +8,7 @@ export const Services = () => {
         <li>
           <h2>Automation platform</h2>
           <img
-            src={service1Image}
+            src={process.env.PUBLIC_URL + "/service1-1.jpg"}
             alt="Automation platform"
             className={styles.serviceImage}
           />
@@ -27,7 +23,7 @@ export const Services = () => {
         <li>
           <h2>Advanced analytics</h2>
           <img
-            src={service2Image}
+            src={process.env.PUBLIC_URL + "/service2-1.jpg"}
             alt="Advanced analytics"
             className={styles.serviceImage}
           />
@@ -42,7 +38,7 @@ export const Services = () => {
         <li>
           <h2>Cybersecurity Service</h2>
           <img
-            src={service3Image}
+            src={process.env.PUBLIC_URL + "/service3-1.jpg"}
             alt="Cybersecurity Service"
             className={styles.serviceImage}
           />

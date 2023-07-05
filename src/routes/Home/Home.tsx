@@ -1,10 +1,6 @@
 import { Logo } from "../../components/Logo";
 import styles from "./Home.module.css";
 
-import service1Video from "../../assets/serviceImages/service1.mp4";
-import service2Image from "../../assets/serviceImages/service2.jpg";
-import service3Image from "../../assets/serviceImages/service3.jpg";
-
 export const Home = () => {
   return (
     <>
@@ -25,7 +21,10 @@ export const Home = () => {
           <li>
             <h3>Automation platform</h3>
             <video className={styles.serviceImage} autoPlay loop muted>
-              <source src={service1Video} type="video/mp4" />
+              <source
+                src={process.env.PUBLIC_URL + "/service1.mp4"}
+                type="video/mp4"
+              />
             </video>
             <p>
               Our automation platform is a cloud-based automation solution that
@@ -38,7 +37,7 @@ export const Home = () => {
           <li>
             <h3>Advanced analytics</h3>
             <img
-              src={service2Image}
+              src={process.env.PUBLIC_URL + "/service2.jpg"}
               alt="Advanced analytics"
               className={styles.serviceImage}
             />
@@ -54,7 +53,7 @@ export const Home = () => {
           <li>
             <h3>Cybersecurity Service</h3>
             <img
-              src={service3Image}
+              src={process.env.PUBLIC_URL + "/service3.jpg"}
               alt="Cybersecurity Service"
               className={styles.serviceImage}
             />
