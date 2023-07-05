@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.81b50767.css",
-    "main.js": "/static/js/main.42c27873.js",
-    "static/js/787.8cfa34c4.chunk.js": "/static/js/787.8cfa34c4.chunk.js",
-    "static/media/RobotoSerif-Italic.ttf": "/static/media/RobotoSerif-Italic.b76acd3683f63932baa0.ttf",
-    "static/media/RobotoSerif.ttf": "/static/media/RobotoSerif.897ab2401d9ca91c9a4e.ttf",
-    "static/media/RobotoSlab.ttf": "/static/media/RobotoSlab.677d14da87bce007211b.ttf",
-    "static/media/anton.ttf": "/static/media/anton.02396b4d2cf38d4a7781.ttf",
-    "index.html": "/index.html",
-    "main.81b50767.css.map": "/static/css/main.81b50767.css.map",
-    "main.42c27873.js.map": "/static/js/main.42c27873.js.map",
-    "787.8cfa34c4.chunk.js.map": "/static/js/787.8cfa34c4.chunk.js.map"
+    "main.css": "/baerekraft-ws/static/css/main.222d9ba8.css",
+    "main.js": "/baerekraft-ws/static/js/main.645f5367.js",
+    "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js",
+    "static/media/RobotoSerif-Italic.ttf": "/baerekraft-ws/static/media/RobotoSerif-Italic.b76acd3683f63932baa0.ttf",
+    "static/media/RobotoSerif.ttf": "/baerekraft-ws/static/media/RobotoSerif.897ab2401d9ca91c9a4e.ttf",
+    "static/media/RobotoSlab.ttf": "/baerekraft-ws/static/media/RobotoSlab.677d14da87bce007211b.ttf",
+    "static/media/anton.ttf": "/baerekraft-ws/static/media/anton.02396b4d2cf38d4a7781.ttf",
+    "index.html": "/baerekraft-ws/index.html",
+    "main.222d9ba8.css.map": "/baerekraft-ws/static/css/main.222d9ba8.css.map",
+    "main.645f5367.js.map": "/baerekraft-ws/static/js/main.645f5367.js.map",
+    "787.8cfa34c4.chunk.js.map": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81b50767.css",
-    "static/js/main.42c27873.js"
+    "static/css/main.222d9ba8.css",
+    "static/js/main.645f5367.js"
   ]
 }
