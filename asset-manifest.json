@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/baerekraft-ws/static/css/main.e0935a94.css",
-    "main.js": "/baerekraft-ws/static/js/main.2bbe8c1c.js",
-    "static/js/787.8cfa34c4.chunk.js": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js",
-    "static/media/service1.mp4": "/baerekraft-ws/static/media/service1.d28831bc5d9eeb4a9a44.mp4",
-    "static/media/service3-1.jpg": "/baerekraft-ws/static/media/service3-1.9bf9c20b40b6e89d5c26.jpg",
-    "static/media/service1-1.jpg": "/baerekraft-ws/static/media/service1-1.1024d9ab372c519e25aa.jpg",
-    "static/media/service2.jpg": "/baerekraft-ws/static/media/service2.3dee77af95dca56abf66.jpg",
-    "static/media/service2-1.jpg": "/baerekraft-ws/static/media/service2-1.0ebaeb71a96c786939ed.jpg",
-    "static/media/service3.jpg": "/baerekraft-ws/static/media/service3.f38bd6356c6c690eb813.jpg",
-    "static/media/anton.ttf": "/baerekraft-ws/static/media/anton.02396b4d2cf38d4a7781.ttf",
-    "index.html": "/baerekraft-ws/index.html",
-    "main.e0935a94.css.map": "/baerekraft-ws/static/css/main.e0935a94.css.map",
-    "main.2bbe8c1c.js.map": "/baerekraft-ws/static/js/main.2bbe8c1c.js.map",
-    "787.8cfa34c4.chunk.js.map": "/baerekraft-ws/static/js/787.8cfa34c4.chunk.js.map"
+    "main.css": "/static/css/main.59f73154.css",
+    "main.js": "/static/js/main.42c27873.js",
+    "static/js/787.8cfa34c4.chunk.js": "/static/js/787.8cfa34c4.chunk.js",
+    "static/media/anton.ttf": "/static/media/anton.02396b4d2cf38d4a7781.ttf",
+    "index.html": "/index.html",
+    "main.59f73154.css.map": "/static/css/main.59f73154.css.map",
+    "main.42c27873.js.map": "/static/js/main.42c27873.js.map",
+    "787.8cfa34c4.chunk.js.map": "/static/js/787.8cfa34c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0935a94.css",
-    "static/js/main.2bbe8c1c.js"
+    "static/css/main.59f73154.css",
+    "static/js/main.42c27873.js"
   ]
 }
