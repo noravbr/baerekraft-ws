@@ -3,6 +3,23 @@
   src: url("./assets/anton.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "RobotoSlab";
+  src: url(./assets/RobotoSlab.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "RobotoSerif";
+  font-style: normal;
+  src: url("./assets/RobotoSerif.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "RobotoSerif";
+  font-style: italic;
+  src: url("./assets/RobotoSerif-Italic.ttf") format("truetype");
+}
+
 :root {
   --primaryColor: #ba3b0a;
   --secondaryColor: #e8772e;
@@ -43,8 +60,17 @@ body {
 }
 
 h1 {
+  font-family: "RobotoSlab";
   font-size: 3.2em;
   line-height: 1.1;
+}
+
+h2 {
+  font-family: "RobotoSerif";
+}
+
+h3 {
+  font-family: "RobotoSerif";
 }
 
 button {
