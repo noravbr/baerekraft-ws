@@ -20,12 +20,11 @@ export const Home = () => {
         <ul>
           <li>
             <h3>Automation platform</h3>
-            <video className={styles.serviceImage} autoPlay loop muted>
-              <source
-                src={process.env.PUBLIC_URL + "/service1.mp4"}
-                type="video/mp4"
-              />
-            </video>
+            <img
+              src={process.env.PUBLIC_URL + "/service1.gif"}
+              alt="Automation platform"
+              className={styles.serviceImage}
+            />
             <p>
               Our automation platform is a cloud-based automation solution that
               helps businesses automate repetitive tasks and processes. With
