@@ -13,20 +13,20 @@ export const Home = () => {
           has years of experience in the technology industry, and we are
           dedicated to staying on the cutting edge of new developments and
           trends.
-        </p>
-      </section>
-      <section id="services">
-        <h2>Our Services</h2>
-        <ul>
-          <li>
-            <h3>Automation platform</h3>
-            <video className={styles.serviceImage} autoPlay loop muted>
-              <source
-                src={process.env.PUBLIC_URL + "/service1.mp4"}
-                type="video/mp4"
+          </p>
+          </section>
+          <section id="services">
+          <h2>Our Services</h2>
+          <ul>
+            <li>
+              <h3>Automation platform</h3>
+              <img
+                className={styles.serviceImage}
+                src={process.env.PUBLIC_URL + "/service1.jpg"}
+                alt="Automation platform"
               />
-            </video>
-            <p>
+              <p>
+
               Our automation platform is a cloud-based automation solution that
               helps businesses automate repetitive tasks and processes. With
               this service, you can easily automate tasks such as data entry,
